@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Module 1"
+---
+
 # Module 1: Unraveling the Mechanics of AI
 
 > A Beginner's Guide to AI: Discussing LLMs and Foundational Structures
